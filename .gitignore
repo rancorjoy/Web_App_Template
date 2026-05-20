@@ -1,0 +1,13 @@
+# Secrets and configs
+.env
+
+# Python caching artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Local database test files
+*.db
+instance/
